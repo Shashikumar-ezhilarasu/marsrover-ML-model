@@ -2,7 +2,9 @@
 
 This project analyzes the REMS (Rover Environmental Monitoring Station) dataset from Mars. The dataset includes various environmental parameters recorded by the Mars Rover, such as temperature, pressure, and UV radiation.
 ![Alt text](Result1.png) 
+Result - 1
 ![Alt text](Result2.png)
+Result - 2
 ## Project Structure
 
 - `marsrover.ipynb`: Jupyter Notebook containing the data analysis and visualization code.
