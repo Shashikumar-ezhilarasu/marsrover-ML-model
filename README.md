@@ -3,8 +3,9 @@
 This project analyzes the REMS (Rover Environmental Monitoring Station) dataset from Mars. The dataset includes various environmental parameters recorded by the Mars Rover, such as temperature, pressure, and UV radiation.<br>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ![Alt text](Result1.png) 
-
-![Alt text](Result2.png)
+<br>
+Result -1
+![Alt text](Result2.png)<br>
 Result - 2
 ## Project Structure
 
